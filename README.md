@@ -8,3 +8,4 @@ Repository thực hành giới thiệu bản thân
 ## Câu trích dẫn yêu thích: 
 Nơi nào có công lý
 Nơi đó có bóng tối.
+![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
