@@ -6,5 +6,5 @@ Repository thực hành giới thiệu bản thân
 ## Thích săn quái một mình
 ## Thông tin liên hệ : ngocha290106@gmail.com
 ## Câu trích dẫn yêu thích: 
-Nơi nào có công lý\\ 
+Nơi nào có công lý
 Nơi đó có bóng tối.
