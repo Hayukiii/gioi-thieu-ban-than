@@ -1,7 +1,7 @@
 # gioi-thieu-ban-than
 Repository thực hành giới thiệu bản thân
 # Họ và tên : Bối Miêu (Thủy Giác)
-Markdown: ![![alt text](image.png)](https://anhhungtraidat.wordpress.com/gioi-thieu/)
+![![alt text](image.png)](https://anhhungtraidat.wordpress.com/gioi-thieu/)
 Bối Miêu (北淼Běi Miǎo) là hậu duệ của Thủy Thôn và là nhân vật chính của Anh Hùng Giáp . Anh là Anh Hùng Tê Giác Đen (黑犀侠Hēi Xī Xiá ) trung tâm.
 Thích săn quái một mình
 Thông tin liên hệ : ngocha290106@gmail.com
